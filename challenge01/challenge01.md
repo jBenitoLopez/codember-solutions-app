@@ -1,4 +1,5 @@
 $ cat challenge01.md
+----------------------------------------------------------
 Reto 1: ¡Arregla Twitter!
 
 Problema
