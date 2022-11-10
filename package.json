@@ -1,0 +1,32 @@
+{
+  "name": "codember-challenges-solutions",
+  "version": "1.0.0",
+  "description": "Soluciones Codember, es un juego y reto de programación que se realiza en el mes de noviembre para la comunidad de midudev.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "ch1": "node challenge01",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jBenitoLopez/codember.git"
+  },
+  "keywords": [
+    "programacion",
+    "reto",
+    "javascript",
+    "midudev",
+    "challeng"
+  ],
+  "author": "jblopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jBenitoLopez/codember/issues"
+  },
+  "homepage": "https://github.com/jBenitoLopez/codember#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
